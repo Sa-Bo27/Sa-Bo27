@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sa-Bo27
-- 👀 I’m interested in all that is development
-- 🌱 I’m currently learning C#, Java, Js, Html, CSS, SQL.. etc.
-- 💞️ I’m looking for learning.
+- � Hi, I’m @Sa-Bo27
+- � I’m interested in all that is development
+- � I’m currently learning C#, Java, Js, Html, CSS, SQL.. etc.
+- � I’m looking for learning.
 -
 
 <!---
